@@ -1,6 +1,5 @@
 package com.app.repository;
 
-import com.app.model.Student;
 import com.app.model.Subject;
 import com.app.repository.generic.CrudRepository;
 
